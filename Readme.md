@@ -10,7 +10,7 @@ A simple business card app built for Android using Kotlin and Jetpack Compose.
 
 ## Screenshot
 
-![Phone Screen](./screens/screenshot.png)
+![Phone Screen](.screenshot.jpg)
 
 ## Getting Started
 
