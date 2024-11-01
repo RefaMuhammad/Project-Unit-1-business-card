@@ -89,7 +89,6 @@ fun ContactRow(
         Text(
             text = text, color = Color.White, modifier = Modifier
                 .weight(3f)
-                .blur(textBlur)
         )
     }
 }
